@@ -51,7 +51,7 @@ header {
 
     #images {
         display: block;
-        padding-top: 10px;
+        padding-top: 20px;
     }
 
     #images p {
@@ -61,7 +61,7 @@ header {
 
     /* Contenuto dell'articolo */
     #main-content {
-        padding-top: 15px;
+        padding-top: 20px;
     }
 
     .yellow-text {
@@ -69,7 +69,7 @@ header {
     }
 
     .elenco-puntato {
-        padding-top: 15px;
+        padding-top: 20px;
         padding-bottom: 15px;
         padding-left: 15px;
     }
@@ -77,11 +77,9 @@ header {
     /* Tabella */
 
     #tabella {
-        padding-top: 15px;
-        width: 100%;
+        padding-top: 20px;
         border-spacing: 0;
         text-align: left;
-        height: 150px;
     }
 
     .head {
@@ -92,3 +90,23 @@ header {
     .acquamarine-row {
         background-color: aquamarine;
     }
+
+    .paragrafo {
+        padding-top: 20px;
+    }
+
+    /* Footer */
+    #footer {
+        padding-left: 3%;
+        padding-top: 20px;
+    }
+
+    #footer h2 {
+        color: grey;
+        font-size: 15px;
+    }
+
+    .immagine-footer {
+        display: block;
+        padding-bottom: 15px;
+        }
