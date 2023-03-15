@@ -1,0 +1,94 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+
+/* Header */
+
+header {
+    background-image:url("../img/pattern.png");
+    background-color: aquamarine;
+    background-size: 30%;
+}
+
+    /* Container per la centratura */
+    #container {
+        padding: 0 3% 0 3%; 
+     }
+
+    header img {
+        width: 10%;
+        padding: 3% 3% 0 3%;
+    }
+
+    /* Titolo */
+
+    #title {
+        color: rgba(0, 0, 0, 0.5);
+    }
+
+    #title h1 {
+        font-size: 40px;
+        color: black;
+    }
+
+    #title h2 {
+        font-size: 20px;
+    }
+
+    #title h2 span {
+        color: blue;
+    }
+
+
+    #title h3 {
+        font-size: 15px;   
+    }
+
+    /* Immagini e didascalia */
+
+    #images {
+        display: block;
+        padding-top: 10px;
+    }
+
+    #images p {
+        font-size: 15px;
+        font-weight: lighter;
+    }
+
+    /* Contenuto dell'articolo */
+    #main-content {
+        padding-top: 15px;
+    }
+
+    .yellow-text {
+        background-color: yellow;
+    }
+
+    .elenco-puntato {
+        padding-top: 15px;
+        padding-bottom: 15px;
+        padding-left: 15px;
+    }
+
+    /* Tabella */
+
+    #tabella {
+        padding-top: 15px;
+        width: 100%;
+        border-spacing: 0;
+        text-align: left;
+        height: 150px;
+    }
+
+    .head {
+        color: white;
+        background-color: rgb(12, 93, 199);
+    }
+
+    .acquamarine-row {
+        background-color: aquamarine;
+    }
