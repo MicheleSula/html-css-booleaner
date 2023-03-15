@@ -80,6 +80,7 @@ header {
         padding-top: 20px;
         border-spacing: 0;
         text-align: left;
+        line-height: 40px;
     }
 
     .head {
@@ -90,6 +91,8 @@ header {
     .acquamarine-row {
         background-color: aquamarine;
     }
+
+    /* Contenuto sotto la tabella */
 
     .paragrafo {
         padding-top: 20px;
