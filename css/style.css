@@ -80,12 +80,16 @@ header {
         padding-top: 20px;
         border-spacing: 0;
         text-align: left;
-        line-height: 40px;
+        line-height: 25px;
     }
 
     .head {
         color: white;
         background-color: rgb(12, 93, 199);
+    }
+
+    .head th {
+        width: 30%;
     }
 
     .acquamarine-row {
